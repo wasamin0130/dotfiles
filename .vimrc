@@ -5,7 +5,7 @@ set enc=japan
 set fencs=iso-2022-jp,utf-8,utf-16,ucs-2-internal,ucs-2
 set fileencoding=utf-8
 set fencs+=cp932,euc-jp
-set termencoding=euc-jp
+set termencoding=utf-8
 set ruler
 set title
 set showcmd
